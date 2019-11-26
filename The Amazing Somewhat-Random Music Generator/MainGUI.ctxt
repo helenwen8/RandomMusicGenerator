@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MainGUI
+comment0.text=\r\n\ Class\ to\ set\ up\ the\ GUI\ of\ the\ class\r\n
+comment1.params=
+comment1.target=MainGUI()
+comment1.text=\r\n\ The\ "main"\ method\ to\ set\ up\ the\ whole\ GUI\ \r\n
+comment2.params=
+comment2.target=javax.swing.JPanel\ getPanel()
+comment3.params=
+comment3.target=void\ setupButtons()
+comment4.params=
+comment4.target=javax.swing.JPanel\ setupAdvancedPanel()
+comment5.params=
+comment5.target=javax.swing.JPanel\ setupRatioPanel()
+comment6.params=
+comment6.target=javax.swing.JPanel\ setupToUsePanel()
+numComments=7

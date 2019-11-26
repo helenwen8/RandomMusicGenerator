@@ -1,0 +1,32 @@
+Class documentation
+<---- javadoc command: ---->
+/Users/Helen/JAVA/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/Users/Helen/JAVA/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Users/Helen/JAVA/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/Users/Helen/JAVA/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/Users/Helen/JAVA/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/Users/Helen/JAVA/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Users/Helen/JAVA/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Users/Helen/JAVA/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Users/Helen/JAVA/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/Helen/JAVA/The Amazing Somewhat-Random Music Generator
+-d
+/Users/Helen/JAVA/The Amazing Somewhat-Random Music Generator/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Users/Helen/JAVA/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/Helen/JAVA/The Amazing Somewhat-Random Music Generator/MainGUI.java
+<---- end of javadoc command ---->
+正在加载源文件/Users/Helen/JAVA/The Amazing Somewhat-Random Music Generator/MainGUI.java...
+/Users/Helen/JAVA/The Amazing Somewhat-Random Music Generator/MainGUI.java:97: 错误: 需要')'
+            pianoPic =  (BufferedImage) ImageIO.read(new File("/Users/Helen/JAVA");
+                                                                                  ^
+1 个错误
